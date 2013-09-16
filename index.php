@@ -27,7 +27,7 @@
 		I am a singer and a runner.  I have sung with numerous choirs, including the 
 		Philadelphia Singers Chorale, 
 		Princeton Singers,
-		Dallas Symphony and
+		Dallas Symphony Chorus and
 		Wheatland Chorale.
 		I have run 5 marathons and also did the 2006 Lake Placid Ironman.
 	</p>

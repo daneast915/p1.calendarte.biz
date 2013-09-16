@@ -17,21 +17,25 @@
   <div id="main" class="span-20 last">
     <h2>Work Experience</h2>
     <h3>Bentley Systems, Inc.</h3>
+    <h4>1996 to present</h4>
     <p>
 		I am a Senior Advisory Software Engineer and lead a team of 10 developers.  Our focus is the core user interface
 		of the MicroStation product.  For this current release, we have been adding support for the Ribbon UI.
 		I have been with Bentley for 17 years.
 	</p>
     <h3>Argo Data Resource Corp.</h3>
+    <h4>1994 to 1996</h4>
     <p>
 		I developed the Telpro computer telephony extension to Bankpro using IBM CallPath.
 	</p>
     <h3>Image Sciences, Inc.</h3>
+    <h4>1987 to 1994</h4>
     <p>
 		I developed the Windows and OS/2 versions of DocuMerge, an electronic form fill and form library product.  
-		I also worked on several releases of the DocuMerge product for the IBM mainframe.
+		I also worked on several releases of the IBM mainframe version of the DocuMerge product.
 	</p>
     <h3>Fast Tax</h3>
+    <h4>1985 to 1987</h4>
     <p>
 		I maintained the computer processing for several tax forms.
 	</p>

@@ -6,16 +6,15 @@
 }
 
 #header h1 { 
-	padding-left: 160px; 
-	padding-top: 20px; 
-	background-position: left; 
-	height: 60px; 
-	background-color: #eeeeff;
+	padding-left: .5em; 
+	padding-top: .5em; 
+	padding-bottom: .5em; 
+	background-color: #ccccff;
 }
 
 #footer { 
 	font-size: smaller; 
-	background-color: #eeeeff;
+	background-color: #ccccff;
 }
 
 #footer p { 
@@ -56,5 +55,9 @@
 	color: #ff0000; 
 	background-color: #ffffff; 
 	border: thin solid navy;
+}
+
+#main h4 {
+	font-style: italic;
 }
 

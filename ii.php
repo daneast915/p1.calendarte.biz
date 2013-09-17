@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>The United States Constitution: Article II</title>
+	<title>Daniel East Bio: Experience</title>
 	<link rel="stylesheet" href="css/p1.css" type="text/css" />
 	<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection" />
 	<link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print" />

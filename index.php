@@ -31,6 +31,10 @@
 		Wheatland Chorale.
 		I have run 5 marathons and also did the 2006 Lake Placid Ironman.
 	</p>
+    <h2>Code Editor</h2>
+    <p>
+		I use Notepad++ on Windows for class assignments.  At work, I use Visual Studio 2010/12. 
+	</p>
     </div>
   <?php include("includes/footer.php"); ?>
 </div>
